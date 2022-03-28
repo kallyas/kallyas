@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyas&layout=compact&theme=gotham&hide=jupyter,c,scss%20notebook&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyas&layout=compact&theme=gotham&hide=jupyter%20notebook,c,scss&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">

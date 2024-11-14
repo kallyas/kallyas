@@ -8,5 +8,5 @@
 
 <p align="right">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kallyas&theme=nord&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kallyas&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>

@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/identumu/)
   [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KallyasL)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://tumuhirwe.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:identumu@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tumuhirwe.dev)
   
   ![Profile views](https://komarev.com/ghpvc/?username=kallyas&label=Profile%20views&color=2E9FD1&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/kallyas?label=Followers&style=for-the-badge&color=2E9FD1)](https://github.com/kallyas?tab=followers)
@@ -37,9 +37,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
       <td align="center">
         <strong>🌍 Location:</strong> Uganda 🇺🇬<br/>
         <strong>🎯 Focus:</strong> Cloud Architecture, Web Development, Mobile Apps, DevOps<br/>
@@ -193,17 +190,10 @@ Cost Management & Optimization, Multi-Cloud Strategies, Infrastructure as Code (
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kallyas&theme=tokyonight" alt="Most Used Languages" />
       </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kallyas&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-      </td>
     </tr>
   </table>
 </div>
 
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kallyas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider" />
@@ -267,11 +257,6 @@ Cost Management & Optimization, Multi-Cloud Strategies, Infrastructure as Code (
   </tr>
 </table>
 
-### 🔧 Open Source Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kallyas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
 
 </div>
 
@@ -289,11 +274,11 @@ Cost Management & Optimization, Multi-Cloud Strategies, Infrastructure as Code (
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:identumu@gmail.com">
+        <a href="mailto:info@tumuhirwe.dev">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
         </a>
         <br><strong>Email</strong>
-        <br>identumu@gmail.com
+        <br>info@tumuhirwe.dev
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/identumu/">

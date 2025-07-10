@@ -34,21 +34,6 @@
 
 🎯 **Currently focused on:** AI/ML Engineering, Serverless Architecture, and Cloud-Native Solutions
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>🌍 Location:</strong> Uganda 🇺🇬<br/>
-        <strong>🎯 Focus:</strong> Cloud Architecture, Web Development, Mobile Apps, DevOps<br/>
-        <strong>📚 Learning:</strong> LLMs, AI/ML Engineering, Serverless Architecture<br/>
-        <strong>💬 Ask me about:</strong> React, Flutter, AWS, Laravel, Django, System Design<br/>
-        <strong>🎨 Hobbies:</strong> Open Source, Tech Blogging, Mentoring<br/>
-        <strong>⚡ Fun fact:</strong> I believe simple solutions solve complex problems
-      </td>
-    </tr>
-  </table>
-</div>
-
 ```javascript
 const iden = {
   location: "Uganda 🇺🇬",

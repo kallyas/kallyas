@@ -8,7 +8,7 @@
 ---
 
 ### 👨🏿‍💻 About Me
-* 🛠️ **Core Stack:** Python (Django, FastAPI), TypeScript (React, NestJS), Elixir (Phoenix), Dart (Flutter).
+* 🛠️ **Core Stack:** Python (Django, FastAPI), TypeScript (React, NestJS), Elixir (Phoenix), Dart (Flutter), SwiftUI.
 * ☁️ **DevOps & Cloud:** AWS (Glue, Athena, S3, CloudFront), Terraform, Docker, Linux administration.
 * 🎓 **Focus:** Designing resilient backend systems, data engineering pipelines, and real-time event-driven applications.
 

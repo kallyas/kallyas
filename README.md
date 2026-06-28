@@ -24,7 +24,7 @@
 
 ### 🚀 Featured Work
 
-* **[TraffIQ-Pro](https://github.com/kallyas/TraffIQ-Pro)** – Machine learning-powered routing algorithms and traffic simulation engines designed to optimize urban intersection throughput.
+* **[TraffIQ-Pro](https://github.com/kallyas/TraffIQ-Pro)** – Real-time traffic monitor for TraffIQ Pro. It queries the Google Maps Routes API (TRAFFIC_AWARE_OPTIMAL with a live departureTime) for traffic-adjusted travel times between configured locations and appends each measurement to a Google Sheet. It can run locally or hourly via GitHub Actions.
 * **[FingerprintVisionLab](https://github.com/kallyas/FingerprintVisionLab)** – Computer vision experiment sandbox focusing on ridge detection, image enhancement filters, and biometric pattern isolation.
 * **[USSDSandbox](https://github.com/kallyas/USSDSandbox)** – A developer utility for building, mocking, and rapidly testing telecommunication USSD application states and session flows locally.
 * **[DRF Error Handler](https://github.com/kallyas/drf-error-handler)** – A lightweight Kotlin/JVM library designed to cleanly normalize and map Django REST Framework error responses.
